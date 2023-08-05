@@ -6,7 +6,7 @@
 **You Can See The Display Of The Page Here:** https://netflix-clone-kyz222l0x-angelitomaury.vercel.app/
 
 ## Login Page:
-![LoginPage](https://github.com/angelitoMaury/NETFLIX-CLONE-NEXTJS/assets/128613074/fdba2602-cfba-4a4c-ace3-f2a72ca24a60)
+![LoginPage](https://github.com/angelitoMaury/NETFLIX-CLONE-NEXTJS/assets/128613074/fe06a9c0-764d-4301-b636-d9dd3a5d0a2c)
 
 ## User Select Page:
 ![SelectUserPage](https://github.com/angelitoMaury/NETFLIX-CLONE-NEXTJS/assets/128613074/0426540d-b476-4ddc-a3b5-bb4f976baacd)
